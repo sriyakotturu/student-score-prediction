@@ -5,8 +5,6 @@ Simple Machine Learning project predicting student scores using Linear Regressio
 ## Overview
 This project demonstrates a **simple Machine Learning pipeline** that predicts student exam scores based on study hours using **Linear Regression**.
 
-It simulates how predictive models can be used to **automate insights** in education, HR, or productivity domains — directly reflecting Packt’s goal of combining technology and automation to improve real-world workflows.
-
 ## Steps Involved
 1. Create a dataset of hours studied vs. score.
 2. Train a Linear Regression model using scikit-learn.
